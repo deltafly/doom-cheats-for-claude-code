@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/logo.png" alt="Claude DOOM Pack" width="540">
+    <img src="logo.png" alt="Claude DOOM Pack" width="540">
 </p>
 
 # 💀 DOOM Pack — cheat codes for Claude Code

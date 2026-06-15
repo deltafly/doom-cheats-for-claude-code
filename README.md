@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="assets/logo.png" alt="Claude DOOM Pack" width="540">
+</p>
+
 # 💀 DOOM Pack — cheat codes for Claude Code
 
 > *IDDQD. IDKFA. The cheats you typed at 2 AM in 1993 — now in your terminal.*

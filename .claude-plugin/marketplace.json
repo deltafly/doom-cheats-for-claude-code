@@ -1,0 +1,17 @@
+{
+  "name": "doom-pack",
+  "owner": {
+    "name": "deltafly"
+  },
+  "metadata": {
+    "description": "DOOM cheat codes for Claude Code - classic cheats mapped to real dev workflow modes.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "doom-cheats",
+      "source": "./plugins/doom-cheats",
+      "description": "7 Doom-themed skills: /iddqd god-mode safety harness, /idkfa arm-up, /iddt recon, /idclip anti-stuck, /idclev warp, /idmypos status, /idbehold menu."
+    }
+  ]
+}

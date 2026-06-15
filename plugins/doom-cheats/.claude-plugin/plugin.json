@@ -1,0 +1,12 @@
+{
+  "name": "doom-cheats",
+  "description": "DOOM cheat codes for Claude Code. Classic cheats (IDDQD, IDKFA, IDDT, IDCLIP, IDCLEV, IDMYPOS, IDBEHOLD) mapped to real, teeth-having dev workflow modes - not gimmicks: god-mode wraps risky work in a real restore point + hard verify, idkfa actually surveys tools/memory, iddt runs recon subagents, etc.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Molnár Barna",
+    "url": "https://www.linkedin.com/in/barna-moln%C3%A1r-01b7b41b0/"
+  },
+  "homepage": "https://github.com/deltafly/doom-cheats-for-claude-code",
+  "license": "MIT",
+  "keywords": ["doom", "cheats", "workflow", "safety", "recon", "fun"]
+}
